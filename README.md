@@ -3,7 +3,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Shrimad-Bhagwat alt=Shrimad-Bhagwat /> </p>
 
-[![Shrimad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimad-Bhagwat)](https://github.com/Shrimad-Bhagwat/github-readme-stats)
+[![Shrimad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimad-Bhagwat)]
 
 
 
