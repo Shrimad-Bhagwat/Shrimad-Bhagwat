@@ -29,5 +29,5 @@
 
 <!-- Links to your social media accounts -->
 
-[1]: https://instagram.com/
-[2]: https://www.linkedin.com/in/
+[1]: https://www.instagram.com/shrimad.bhagwat/
+[2]: https://www.linkedin.com/in/shrimad-bhagwat-a7a879201/
