@@ -1,6 +1,6 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Shrimad Bhagwat
 
-<img align="right" width="400" src="https://github.com/Shrimad-Bhagwat/Shrimad-Bhagwat/blob/main/assets/programmer-illustration.svg" alt="illustration" />
+<img align="right" width="300" src="https://github.com/Shrimad-Bhagwat/Shrimad-Bhagwat/blob/main/assets/programmer-illustration.svg" alt="illustration" />
 
 
 [![Github Badge](https://img.shields.io/badge/Shrimad-Bhagwat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Shrimad-Bhagwat/)](https://www.github.com/Shrimad-Bhagwat/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://shrimad-bhagwat.github.io/Portfolio//)](https://shrimad-bhagwat.github.io/Portfolio//) 
