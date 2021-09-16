@@ -1,12 +1,16 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Shrimad Bhagwat
 
-<img align="right" width="300" src="https://github.com/Shrimad-Bhagwat/Shrimad-Bhagwat/blob/main/assets/programmer-illustration.svg" alt="illustration" />
+
 
 
 [![Github Badge](https://img.shields.io/badge/Shrimad-Bhagwat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Shrimad-Bhagwat/)](https://www.github.com/Shrimad-Bhagwat/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://shrimad-bhagwat.github.io/Portfolio//)](https://shrimad-bhagwat.github.io/Portfolio//) 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Shrimad-Bhagwat alt=Shrimad-Bhagwat /> </p>
 
+
+<img align="right" width="300" src="https://github.com/Shrimad-Bhagwat/Shrimad-Bhagwat/blob/main/assets/programmer-illustration.svg" alt="illustration" />
+
 ![Shrimad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimad-Bhagwat&theme=dark&show_icons=true&border_radius=10)
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrimad-Bhagwat&theme=dark&layout=compact&border_radius=10)
