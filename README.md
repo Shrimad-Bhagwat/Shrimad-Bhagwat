@@ -18,10 +18,14 @@
 ---
 <!-- Actual text -->
 
-### You can find me on
 
+<span align=center>
+  
+### You can find me on
+  
 [![Instagram][1.2]][1]    &nbsp; [![LinkedIn][2.2]][2]
 
+ </apan>
 <!-- Icons -->
 
 [1.2]: https://image.flaticon.com/icons/png/32/174/174855.png
