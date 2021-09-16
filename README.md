@@ -7,7 +7,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Shrimad-Bhagwat alt=Shrimad-Bhagwat /> </p>
 
 
-<img align="right" width="300" src="https://github.com/Shrimad-Bhagwat/Shrimad-Bhagwat/blob/main/assets/programmer-illustration.svg" alt="illustration" />
+<img align="right" width="280" src="https://github.com/Shrimad-Bhagwat/Shrimad-Bhagwat/blob/main/assets/programmer-illustration.svg" alt="illustration" />
 
 ![Shrimad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimad-Bhagwat&theme=dark&show_icons=true&border_radius=10)
 
