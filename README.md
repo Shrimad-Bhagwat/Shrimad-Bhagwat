@@ -9,7 +9,7 @@
 
 <img align="right" width="280" src="https://github.com/Shrimad-Bhagwat/Shrimad-Bhagwat/blob/main/assets/programmer-illustration.svg" alt="illustration" />
 
-<p align=center>  &nbsp; I'm a B.Tech. Computer Science with Specialization in Gaming Technology student at Vellore Institue of Technology, Bhopal.
+<p>  &nbsp; I'm a B.Tech. Computer Science with Specialization in Gaming Technology student at Vellore Institue of Technology, Bhopal.
 <br> Also a self taught Programmer and Web Developer.</p>
 
 ![Shrimad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimad-Bhagwat&theme=dark&show_icons=true&border_radius=10)
