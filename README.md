@@ -20,8 +20,6 @@
 
 ---
 <!-- Actual text -->
-
-
 <span align=center>
   
 ### You can find me on
