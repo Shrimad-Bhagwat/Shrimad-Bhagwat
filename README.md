@@ -14,7 +14,7 @@
 
 ![Shrimad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimad-Bhagwat&theme=dark&show_icons=true&border_radius=10)
 
-<span align=right>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrimad-Bhagwat&theme=dark&border_radius=10&layout=compact)](https://git.io/streak-stats)</span>
+<!-- <span align=right>[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrimad-Bhagwat&theme=dark&border_radius=100)](https://git.io/streak-stats)</span> -->
 
 <span align=left>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrimad-Bhagwat&theme=dark&layout=compact&border_radius=10)</span>
 
