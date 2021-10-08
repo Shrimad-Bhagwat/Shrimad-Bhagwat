@@ -18,6 +18,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrimad-Bhagwat&theme=dark&layout=compact&border_radius=10)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shrimad-Bhagwat&theme=dark&border_radius=10)](https://git.io/streak-stats)
+
 ---
 <!-- Actual text -->
 <span align=center>
