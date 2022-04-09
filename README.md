@@ -29,8 +29,8 @@
  </apan>
 <!-- Icons -->
 
-[1.2]: https://cdn-icons-png.flaticon.com/512/2111/2111463.png
-[2.2]: https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png
+[1.2]: https://cdn.icon-icons.com/icons2/1584/PNG/64/3721672-instagram_108066.png
+[2.2]: https://cdn.icon-icons.com/icons2/99/PNG/64/linkedin_socialnetwork_17441.png
 
 <!-- Links to your social media accounts -->
 
