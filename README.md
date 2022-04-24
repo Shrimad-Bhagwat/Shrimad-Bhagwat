@@ -31,7 +31,7 @@
 <a href="https://instagram.com/https://www.instagram.com/shrimad.bhagwat/" target="blank"><img align="center" src="assets/instagram.svg" alt="https://www.instagram.com/shrimad.bhagwat/" height="30" width="40" /></a>
 
 <a href="https://dev.to/shrimadbhagwat" target="blank"><img align="center" src="assets/devto.svg" alt="https://dev.to/shrimadbhagwat" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14176959/shrimad-bhagwat" target="blank"><img align="center" src="assets/stack-overflow.svg" alt="https://stackoverflow.com/users/14176959/shrimad-bhagwat" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14176959/shrimad-bhagwat" target="blank"><img align="center" src="assets/stack-overflow.svg" alt="https://stackoverflow.com/users/14176959/shrimad-bhagwat" height="30" width="40" /></a>
 </span>
 
 <h3 align="center">
