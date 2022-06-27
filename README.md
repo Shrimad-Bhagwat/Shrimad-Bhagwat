@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Shrimad Bhagwat
+# Hey 👋, This is Shrimad Bhagwat
 
 [![Github Badge](https://img.shields.io/badge/Shrimad-Bhagwat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Shrimad-Bhagwat/)](https://www.github.com/Shrimad-Bhagwat/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://shrimad-bhagwat.github.io/Portfolio//)](https://shrimad-bhagwat.github.io/Portfolio//)
 
