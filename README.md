@@ -6,7 +6,7 @@
 
 <img align="right" width="280" src="assets/programmer-illustration.svg" alt="illustration" />
 
-<p>  &nbsp; I'm a B.Tech. Computer Science with Specialization in Gaming Technology student at Vellore Institue of Technology, Bhopal.
+<p>  &nbsp; I'm a B.Tech. Computer Science with Specialization in Gaming Technology student at Vellore Institute of Technology, Bhopal.
 
 
 - 🌱 I’m currently learning 
