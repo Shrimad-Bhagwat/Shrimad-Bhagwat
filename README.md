@@ -32,6 +32,8 @@
 <a href="https://stackoverflow.com/users/14176959/shrimad-bhagwat" target="blank"><img align="center" src="assets/stack-overflow.svg" alt="https://stackoverflow.com/users/14176959/shrimad-bhagwat" height="30" width="40" /></a>
 </span>
 
+<a href="https://www.hackerrank.com/shrimad_bhagwat" target="_blank" rel="noreferrer"> <img src="assets/hackerrank.png" alt="Hackerrank" width="40" height="40"/> </a><a href="https://www.codechef.com/users/shrimadbhagwat" target="_blank" rel="noreferrer"> <img src="assets/codechef.png" alt="Codechef" width="40" height="40"/> </a>
+
 <h3 align="center">
 
 ### Languages and Tools
