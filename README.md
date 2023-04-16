@@ -4,7 +4,7 @@
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Shrimad-Bhagwat alt=Shrimad-Bhagwat /> </p>
 
-<img align="right" width="280" src="assets/programmer-illustration.svg" alt="illustration" />
+<img align="right" width="30%" src="assets/programmer-illustration.svg" alt="illustration" />
 
 <p>  &nbsp; I'm a B.Tech. Computer Science with Specialization in Gaming Technology student at Vellore Institute of Technology, Bhopal.
 
