@@ -9,8 +9,8 @@
 <p>  &nbsp; I'm a B.Tech. Computer Science with Specialization in Gaming Technology student at Vellore Institute of Technology, Bhopal.
 
 - 🌱 I’m currently learning
-  - Game Development
-  - Android Development
+  - Android Development 
+  - Google Cloud 
 
 ![Shrimad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimad-Bhagwat&theme=dark&show_icons=true&border_radius=10)
 
