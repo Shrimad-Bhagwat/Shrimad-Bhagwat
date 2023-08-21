@@ -9,6 +9,7 @@
 <p>  &nbsp; I'm a Final year B.Tech. Computer Science student specializing in Gaming Technology at Vellore Institute of Technology, Bhopal.
 
 - 🌱 I’m currently learning
+  - Flutter    
   - Android Development 
 
 ![Shrimad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimad-Bhagwat&theme=dark&show_icons=true&border_radius=10)
