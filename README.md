@@ -6,11 +6,18 @@
 
 <img align="right" width="30%" src="assets/programmer-illustration.svg" alt="illustration" />
 
-<p>  &nbsp; I'm a Final year B.Tech. Computer Science student specializing in Gaming Technology at Vellore Institute of Technology, Bhopal.
+<p> &nbsp; I'm an Undergraduate Engineer with a B.Tech in Computer Science, specializing in Gaming Technology from Vellore Institute of Technology, Bhopal.
 
-- 🌱 I’m currently learning
-  - Flutter    
-  - Android Development 
+- 👨‍💻 I have hands-on experience in:
+  - Android Development
+  - Game Development
+
+- 🌱 I’m currently enhancing my skills in:
+  - Flutter
+
+- 🧩 I have interest in:
+  -  3D Modelling and Animation using Blender
+  
 
 ![Shrimad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shrimad-Bhagwat&theme=dark&show_icons=true&border_radius=10)
 
