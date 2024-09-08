@@ -13,7 +13,7 @@
   - Game Development
 
 - 🌱 I’m currently enhancing my skills in:
-  - Flutter
+  - Node & Express js
 
 - 🧩 I have interest in:
   -  3D Modelling and Animation using Blender
