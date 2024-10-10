@@ -1,6 +1,6 @@
 # Hey 👋, This is Shrimad Bhagwat
 
-[![Github Badge](https://img.shields.io/badge/Shrimad-Bhagwat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Shrimad-Bhagwat/)](https://www.github.com/Shrimad-Bhagwat/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=www.shrimadbhagwat01.tk/)](https://www.shrimadbhagwat01.tk/)
+[![Github Badge](https://img.shields.io/badge/Shrimad-Bhagwat-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Shrimad-Bhagwat/)](https://www.github.com/Shrimad-Bhagwat/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=www.shrimadbhagwat01.tk/)](https://www.shrimadbhagwat01.in/)
 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=Shrimad-Bhagwat alt=Shrimad-Bhagwat /> </p>
 
