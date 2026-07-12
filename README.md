@@ -122,13 +122,11 @@ The system uses the **A* pathfinding algorithm** to calculate navigation routes 
 
 ## 📊 GitHub Analytics
 
-<p align="center">
 
 <img width="48%" src="https://ghstats.dev/api/card?username=Shrimad-Bhagwat" />
 
 <img width="48%" src="https://ghstats.dev/api/langs?username=Shrimad-Bhagwat" />
 
-</p>
 
 ---
 
