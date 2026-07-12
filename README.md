@@ -27,6 +27,22 @@ My journey in software development has taken me across **game development, augme
 
 ---
 
+## 💼 Current Role
+
+Working as a **Java Backend Developer** on the transformation of a large-scale financial clearing system.
+
+
+* 🔄 Modernizing and migrating legacy system components to Java-based services
+* 🔍 Analysing existing systems and translating business requirements into backend solutions
+* ⚙️ Developing backend components using **Java and Spring Boot**
+* ⚡ Exploring performance improvements for **data-intensive processing workflows**
+* 🗄️ Working with **Oracle SQL, JDBC, JPA, and high-volume datasets**
+* 🧪 Performing **unit testing and business scenario validation**
+* 🚀 Supporting **UAT delivery, deployment, and CI/CD activities**
+
+
+---
+
 ## 🧭 My Developer Journey
 
 <table>
